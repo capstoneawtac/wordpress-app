@@ -1,5 +1,5 @@
 apply plugin: 'com.android.application'
-//Pushed d938a7f0-d1fc-07f8-ff38-153de23e7f38
+//Pushed ecbe8b1a-2146-4549-cc9b-383218c67f30
 apply plugin: 'kotlin-android'
 
 apply plugin: 'kotlin-android-extensions'
@@ -19,8 +19,8 @@ android {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
-            resValue "string", "base_url", "rahfasfhgjasman.com"
-            resValue "string", "logo_url", "rahmnvcgjasfan.com/logfo"
+            resValue "string", "base_url", "meaasfasfas.com"
+            resValue "string", "logo_url", "metasfasecanduyal.com/logo"
 
         }
     }
