@@ -1,5 +1,5 @@
 apply plugin: 'com.android.application'
-
+//Pushed feb10e8c-e01d-d986-1a0e-1be306606454
 apply plugin: 'kotlin-android'
 
 apply plugin: 'kotlin-android-extensions'
@@ -19,8 +19,8 @@ android {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
-            resValue "string", "base_url", ""
-            resValue "string", "logo_url", ""
+            resValue "string", "base_url", "rahfasfasman.com"
+            resValue "string", "logo_url", "rahmasfan.com/logfo"
 
         }
     }
