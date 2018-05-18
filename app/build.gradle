@@ -19,8 +19,8 @@ android {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
-            resValue "string", "base_url", "kmetanasfasas1.comafa"
-            resValue "string", "logo_url", "kmetecandasf"
+            resValue "string", "base_url", "kmeasgastanasfssaffasas1.comafa"
+            resValue "string", "logo_url", "ASGASkmsfasfaagasgsfasfetecandasf"
 
         }
     }
